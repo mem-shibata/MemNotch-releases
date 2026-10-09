@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/icon.png" alt="MemNotch のアイコン" width="160" height="160">
+</p>
+
 <h1 align="center">MemNotch</h1>
 
 <p align="center">

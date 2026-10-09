@@ -1,6 +1,6 @@
 # MemNotch releases
 
-MacBook のノッチを使う社内向けアプリ **MemNotch** の配布用リポジトリです。ここにはビルド済みのアプリ（zip）だけを置いています。
+MacBook のRichなNotchアプリ **MemNotch** の配布用リポジトリです。ここにはビルド済みのアプリ（zip）だけを置いています。
 
 MemNotch は [NotchDrop](https://github.com/Lakr233/NotchDrop)（MIT License, Copyright (c) 2024 Lakr Aream）をもとにしています。
 

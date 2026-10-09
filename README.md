@@ -178,3 +178,5 @@ zip で入れた場合は、MemNotch を終了してから「アプリケーシ�
 ## 謝辞
 
 MemNotch は [NotchDrop](https://github.com/Lakr233/NotchDrop)（MIT License, Copyright (c) 2024 Lakr Aream）をもとに作っています。
+
+また、このアプリケーションはO氏が生きていることにより実現しました。感謝いたします。
